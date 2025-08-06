@@ -610,8 +610,10 @@ h3.my-profession{
     .portfolio .portfolio-item,
     .about .about-content .skills,
     .about .about-content .education,
-    .about .about-content .experience{
+    .about .about-content .experience,
+    .home .home-info{
         flex: 0 0 100%;
         max-width: 100%;
     }
+
 }
